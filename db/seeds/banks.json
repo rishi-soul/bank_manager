@@ -1,0 +1,35 @@
+[
+	{
+	"account_number" : "1234567",
+	"routing_number" : "121042882",
+	"bank_address" : "141 W BASTANCHURY RD FULLERTON, CA, 92835",
+	"bank_nickname" : "WELLSFARGO"
+	},
+	{
+	"account_number" : "1322111",
+	"routing_number" : "121042882",
+	"bank_address" : "141 W BASTANCHURY RD FULLERTON, CA, 92835",
+	"bank_nickname" : "WELLSFARGO"
+	},
+	{
+	"account_number" : "12232322",
+	"routing_number" : "121042882",
+	"bank_address" : "141 W BASTANCHURY RD FULLERTON, CA, 92835",
+	"bank_nickname" : "WELLSFARGO"
+	},
+	{
+	"account_number" : "1232323",
+	"routing_number" : "121042882",
+	"bank_address" : "141 W BASTANCHURY RD FULLERTON, CA, 92835",
+	"bank_nickname" : "WELLSFARGO"
+	},
+	{
+	"account_number" : "1343437",
+	"routing_number" : "121042882",
+	"bank_address" : "141 W BASTANCHURY RD FULLERTON, CA, 92835",
+	"bank_nickname" : "WELLSFARGO"
+	}
+]
+	
+
+ 
